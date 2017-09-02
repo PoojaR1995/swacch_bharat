@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="myapp.views.LoginForm" />
+          <option value="myapp.views.check_password" />
+          <option value="myapp.views.SessionToken" />
+          <option value="myapp.views.Content" />
+          <option value="myapp.views.Mail" />
+          <option value="myapp.views.Email" />
+          <option value="sendgrid" />
+          <option value="myapp.views.imgurpython" />
+          <option value="myapp.views.SwacchBharat" />
+          <option value="myapp.views.clarifai" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
